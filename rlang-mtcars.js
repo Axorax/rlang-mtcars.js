@@ -1,0 +1,1 @@
+import r from"./rlang-mtcars.json";export function mtcars(){return r}export default mtcars

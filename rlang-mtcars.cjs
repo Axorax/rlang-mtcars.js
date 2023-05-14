@@ -1,0 +1,1 @@
+const data=require("./rlang-mtcars.json");function mtcars(){return data}module.exports=mtcars

@@ -1,0 +1,25 @@
+{
+  "name": "rlang-mtcars",
+  "version": "1.1.0",
+  "description": "R programming language mtcars data in JSON",
+  "main": "rlang-mtcars.js",
+  "exports": {
+    "import": "./rlang-mtcars.js",
+    "require": "./rlang-mtcars.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/rlang-mtcars.js.git"
+  },
+  "keywords": [
+    "mtcars",
+    "r-lang-mtcars"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/rlang-mtcars.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/rlang-mtcars.js#readme"
+}
